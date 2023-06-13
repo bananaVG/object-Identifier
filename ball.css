@@ -1,0 +1,26 @@
+.header{
+    color: green;
+    padding: 60px;
+    font: size 50px;
+    text-align: center;
+    position: center;
+    
+}
+
+.body{
+    background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/03/Dragon-Ball-Memes-Feature.jpg");
+}
+
+.home{
+    position:left;
+}
+
+#status{
+    color: burlywood;
+    position: center;
+    margin-top: 50px;
+}
+
+canvas{
+    box-shadow: red;
+}
